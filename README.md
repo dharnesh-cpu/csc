@@ -1,0 +1,1 @@
+I've Created an e-commerce course selling website!.  In this CSC project I've built an webpage which includes courses where user can explore various courses and buy the courses as per their wish. They can add to cart and have discount.
